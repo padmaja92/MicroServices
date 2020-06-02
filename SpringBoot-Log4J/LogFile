@@ -1,0 +1,29 @@
+"2020-05-20 07:35:59 [restartedMain] INFO  com.java.SpringBootLog4JApplication - Starting SpringBootLog4JApplication on DESKTOP-88N6PG2 with PID 5080 (C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J\target\classes started by amara in C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J)
+""2020-05-20 07:35:59 [restartedMain] DEBUG com.java.SpringBootLog4JApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+""2020-05-20 07:35:59 [restartedMain] INFO  com.java.SpringBootLog4JApplication - No active profile set, falling back to default profiles: default
+""2020-05-20 07:36:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-05-20 07:36:00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-05-20 07:36:00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+""2020-05-20 07:36:00 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-05-20 07:36:00 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-05-20 07:36:00 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-05-20 07:36:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-05-20 07:36:00 [restartedMain] INFO  com.java.SpringBootLog4JApplication - Started SpringBootLog4JApplication in 0.471 seconds (JVM running for 54.495)
+""2020-05-20 07:36:00 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+""2020-05-20 07:36:00 [RMI TCP Connection(14)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+""2020-05-20 07:36:01 [RMI TCP Connection(14)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+""2020-05-20 07:36:09 [restartedMain] INFO  com.java.SpringBootLog4JApplication - Starting SpringBootLog4JApplication on DESKTOP-88N6PG2 with PID 1288 (C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J\target\classes started by amara in C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J)
+""2020-05-20 07:36:09 [restartedMain] DEBUG com.java.SpringBootLog4JApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+""2020-05-20 07:36:09 [restartedMain] INFO  com.java.SpringBootLog4JApplication - No active profile set, falling back to default profiles: default
+""2020-05-20 07:36:09 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-05-20 07:36:09 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-05-20 07:36:10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-05-20 07:36:10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-05-20 07:36:10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+""2020-05-20 07:36:10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-05-20 07:36:10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-05-20 07:36:11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-05-20 07:36:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-05-20 07:36:11 [restartedMain] INFO  com.java.SpringBootLog4JApplication - Started SpringBootLog4JApplication in 2.161 seconds (JVM running for 3.098)
+""2020-05-20 07:37:47 [Thread-120] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+"

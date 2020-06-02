@@ -1,0 +1,20 @@
+package com.java.controller;
+
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.java.model.Person;
+
+@RestController
+public class Controller {
+	
+	
+	private PersonDAO personDAO;
+	
+	@RequestMapping("/savePersonDetails")
+	public void savePerson(@RequestBody Person person) {
+		Person person = new Person();
+	}
+
+}

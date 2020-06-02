@@ -1,0 +1,12 @@
+2020-05-20 07:42:00 [restartedMain] INFO  com.java.SpringBootLog4JApplication -
+				Starting SpringBootLog4JApplication on DESKTOP-88N6PG2 with PID 1144 (C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J\target\classes started by amara in C:\Java WorkSpace\workspace-spring-tool-suite-4-4.5.1.RELEASE\MicroServices\SpringBoot\SpringBoot-Log4J)
+2020-05-20 07:42:00 [restartedMain] DEBUG com.java.SpringBootLog4JApplication -
+				Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-20 07:42:00 [restartedMain] INFO  com.java.SpringBootLog4JApplication -
+				No active profile set, falling back to default profiles: default
+2020-05-20 07:42:01 [restartedMain] INFO  com.java.SpringBootLog4JApplication -
+				Started SpringBootLog4JApplication in 2.041 seconds (JVM running for 3.573)
+2020-05-20 07:42:08 [http-nio-8080-exec-1] DEBUG com.java.LoggerController -
+				Request Padmaja
+2020-05-20 07:42:08 [http-nio-8080-exec-1] DEBUG com.java.LoggerController -
+				Response Padmaja

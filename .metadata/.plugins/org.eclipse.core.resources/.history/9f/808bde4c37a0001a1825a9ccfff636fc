@@ -1,0 +1,17 @@
+package com.java.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.java.model.Person;
+
+@RestController
+public class Controller {
+	
+	
+	@RequestMapping("/savePersonDetails")
+	public void savePerson(Person person) {
+		
+	}
+
+}

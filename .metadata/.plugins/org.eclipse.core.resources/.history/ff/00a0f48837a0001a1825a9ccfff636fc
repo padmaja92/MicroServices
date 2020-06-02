@@ -1,0 +1,40 @@
+package com.java.DAO;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.java.model.Person;
+
+@Repository
+public class PersonDAO {
+	
+	@Autowired
+	private SessionFactory sessionFactory;
+	
+	public Session getSession() {
+		Session session = sessionFactory.getCurrentSession();
+		
+		if(session == null) {
+			session = sessionFactory.openSession();
+		}
+		return session;				
+	}
+	
+	
+	// MEthod to save person details
+	
+	public void savePerson(Person person) {
+		getSession().save(person);
+	}
+	
+	@SuppressWarnings({ "deprecation", "unchecked" })
+	public List<Person> getPerson(){
+		return getSession().createCriteria(Person.class).list();
+		
+	}
+	
+}
